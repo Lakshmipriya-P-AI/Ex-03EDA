@@ -10,7 +10,7 @@ anomalies to direct specific testing of your hypothesis.
 
 # ALGORITHM:
 
-# STEP 1: 
+# STEP 1:
 Create a new file in jupyter notebook.
 # STEP 2:
 Upload the given csv file.
